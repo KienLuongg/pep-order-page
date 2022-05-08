@@ -1,0 +1,83 @@
+.promo{
+    width: 850px;
+}
+.menu{
+    background-image: url("../order-img-2/background/background  fisrt menu.png");
+    padding-bottom: 30px;
+}
+.bodyBag{
+    margin-top: 0 !important;
+    padding: 0 !important;
+}
+.ulList{
+    padding: 0;
+    padding-left: 20px;
+}
+.list{
+    margin: 0 41px 0 41px;
+}
+.list-product{
+    padding-top: 20px;
+    padding-bottom: 30px;
+    background-image: url("../order-img-2/background/bg-all.aee0155aaac5cc9f712b.jpg");
+}
+.headerMenu{
+    border-top: 2px solid maroon;
+    margin-bottom: 20px;
+    margin-top: 10px;
+    padding-top: 10px;
+}
+footer {
+    margin-bottom: 65px;
+}
+.manu{
+    display: inline;
+    margin-top: 0;
+}
+.insideMenu{
+    padding-top: 50px;
+}
+
+.backgroundList{
+    padding-left: 30px;
+    padding-bottom: 20px;
+}
+.bill{
+    padding-left: 20px;
+    padding-top: 10px;
+}
+#listCart{
+    max-width: 100%;
+}
+.minicart-footer{
+    justify-content: normal;
+    display: grid;
+}
+.checkout{
+    margin-top: 20px;
+}
+.img-promo{
+    height: 417px !important;
+}
+.img-food{
+    width: 400px;
+    height: 190px;
+}
+.banner-img{
+    width: 400px;
+}
+.dish{
+    padding-top: 40px;
+}
+.nut{
+    width: 100%;
+    height: 35px;
+}
+.label{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.price{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
